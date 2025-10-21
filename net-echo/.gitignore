@@ -1,0 +1,7 @@
+/bin/
+/build/
+*.o
+*.log
+vgcore.*
+*.dSYM/
+compile_commands.json
